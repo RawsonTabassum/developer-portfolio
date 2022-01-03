@@ -1,11 +1,33 @@
-.text-yellow{
-    color: rgb(235, 205, 35);
+.text-yellow {
+  color: rgb(235, 205, 35);
 }
 
-body{
-    font-family: 'Poppins', sans-serif;
+body {
+  font-family: "Poppins", sans-serif;
 }
 
-.text-size{
-    font-size: 50px;
+.text-size {
+  font-size: 60px;
+}
+
+section {
+  display: flex;
+}
+
+.resize {
+  width: 50%;
+  padding-left: 7%;
+}
+
+.resize img {
+  width: 80%;
+}
+
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(salmon, tomato);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 800;
 }
