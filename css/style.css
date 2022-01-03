@@ -1,0 +1,11 @@
+.text-yellow{
+    color: rgb(235, 205, 35);
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-size{
+    font-size: 50px;
+}
